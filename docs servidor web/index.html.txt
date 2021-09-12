@@ -1,0 +1,38 @@
+<html>
+<center><font size='+2' color='blue'>Cisco Packet Tracer</font></center>
+<hr>Welcome to Cisco Packet Tracer. Opening doors to new opportunities. Mind Wide Open.
+<p>Quick Links:
+<br><a href='helloworld.html'>A small page</a>
+<br><a href='copyrights.html'>Copyrights</a>
+<br><a href='image.html'>Image page</a>
+<br><a href='cscoptlogo177x111.jpg'>Image</a>
+<p>Integrantes del grupo 11</p>
+<br><a href='santiago.html'>Santiago Ballesteros Pastrán.</a>
+<p>Santiago Ballesteros</p>
+<img src="santiago.jpeg" alt="Hi" style="width:100px;height:100px;">
+        <p> Soy Santiago Ballesteros tengo 21 años estoy en mi penultimo semestre de ingeniería de sistemas, no me gusta hacer paginas web, y mis temas de interes en la carrera son la analitica de datos y depronto lo que enseñen en este curso, de hobbies me gusta el tennis, las peliculas, y aprender cosas de fisica sin enterarme de las matematicas detras de todo.</p>
+<p>Nicolas Melendez</p>
+        <img src="nicolas_melendez.jpeg" alt="Hi" style="width:100px;height:100px;">
+        <p> Soy Nicolás Meléndez tengo 21 años estoy en octavo semestre de ingeniería de sistemas y en 5 de economía.</p>
+        <p> Me gustan los motores y salir con mis amigos..</p>
+<p>Andres Sanchez Rangel</p>
+        <img src="andres.jpeg" alt="Hi" style="width:295px;height:640px;">
+        <p> Mi nombre es Andrés Sánchez, tengo 20 años y estoy en séptimo semestre de Ingeniería de Sistemas.</p>
+        <p> Me gusta hacer deporte y me interesa mucho la biología.</p>
+<p>Alejandra Bravo Vega</p>
+        <img src="alejandra.jpeg" alt="Hi" style="width:100px;height:100px;">
+        <p> Soy Alejandra Bravo, estoy en séptimo semestre de Ing de Sistemas. Me gustan los videojuegos y hacer cerveza artesanal.</p>
+
+<p>Videos de telecomunicaciones y relacionados</p>
+<video width="320" height="240" controls>
+  <source src="Multimedia1.mp4" type="video/mp4">
+  <source src="Multimedia2.mp4" type="video/mp4">
+  <source src="Multimedia3.mp4" type="video/mp4">
+  <source src="Multimedia4.mp4" type="video/mp4">
+</video>
+<p>Fotos</p>
+<img src="Imagen1.png" alt="Italian Trulli">
+<img src="Imagen2.png" alt="Italian Trulli">
+<img src="Imagen3.png" alt="Italian Trulli">
+<img src="Imagen4.png" alt="Italian Trulli">
+</html>
